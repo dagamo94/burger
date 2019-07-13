@@ -1,6 +1,8 @@
-INSERT INTO burgers (name) VALUES ('Meeses');
-INSERT INTO burgers (name) VALUES ('Bobbi');
-INSERT INTO burgers (name, devour) VALUES ('Sylvester', true);
-INSERT INTO burgers (name, devour) VALUES ('Marilyn Manson', true);
-INSERT INTO burgers (name, devour) VALUES ('Joe Biden', true);
-INSERT INTO burgers (name) VALUES ('Owens');
+INSERT INTO burgers (name) VALUES ('Bacon Cheeseburger');
+INSERT INTO burgers (name) VALUES ('Classic');
+INSERT INTO burgers (name) VALUES ('Double Chees');
+INSERT INTO burgers (name) VALUES ('Bacon Burger');
+INSERT INTO burgers (name) VALUES ('Mushroom');
+
+USE burger_db;
+SELECT * FROM burgers;
