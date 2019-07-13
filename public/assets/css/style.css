@@ -19,6 +19,32 @@ li {
   margin-bottom: 5px;
 }
 
-.change-devour{
+img {
+  /* padding: 0 40px; */
+  display: block;
+  margin: auto;
+}
 
+.container{
+  padding: -1;
+}
+
+.col-md-6{
+  padding: 0 40px;
+}
+
+.jumbotron{
+  margin: 0 -15px;
+}
+
+.row{
+  margin-top: 40px;
+}
+
+.mycol{
+  margin-top: 40px;
+}
+
+h2{
+  margin-bottom: 40px;
 }
